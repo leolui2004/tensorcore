@@ -1,10 +1,15 @@
 # Comparison for training CNN models using Tensor Cores with PyTorch
+
 This is a simple comparison for training CNN models using Tensor Cores with PyTorch framework. Although there are sample scripts on the official site, there should be a lot of differences in real world applications.
 
 ## Hardware and Software
+
 GPU: Tesla T4
+
 Framework: PyTorch 1.11
+
 nvidia Driver: 470.57.02
+
 cuda: 11.4
 
 ## Performance
